@@ -1,0 +1,3 @@
+[submodule "themes/paper-rtl"]
+	path = themes/paper-rtl
+	url = https://github.com/techwithomid/hugo-paper-rtl
